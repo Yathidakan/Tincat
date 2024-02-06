@@ -111,13 +111,13 @@ background-color: #fff;
 
 
 .icon{
-  color: #fa55d9;
+  color: #ff6de2;
   ;
   margin-bottom:1rem;
 }
 
 .icon:hover{
-  color: #ff8de8;
+  color: #ffa0ec;
   ;
 }
 
@@ -141,7 +141,7 @@ background-color: #fff;
 }
 
 #press{
-  background-color: #EF8172;
+  background-color: #ff8de8;
   padding-bottom:3%;
 }
 
